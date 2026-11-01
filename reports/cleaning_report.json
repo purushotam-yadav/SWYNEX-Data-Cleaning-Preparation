@@ -1,0 +1,19 @@
+{
+    "dataset": "UCI Bank Marketing (ID 222)",
+    "rows_before": 45211,
+    "rows_after": 45211,
+    "columns": 17,
+    "duplicate_rows_removed": 0,
+    "missing_cells_before": 52124,
+    "missing_cells_after": 0,
+    "cleaning_actions": [
+        "Standardized text by trimming whitespace and converting to lowercase",
+        "Converted numeric fields to numeric data types",
+        "Removed exact duplicate records",
+        "Validated age, day, duration, campaign and previous-contact values",
+        "Filled true missing categorical values with 'unknown'",
+        "Filled true missing numeric values with the column median",
+        "Preserved pdays = -1 because UCI defines it as not previously contacted",
+        "Preserved documented 'unknown' categories as meaningful source codes"
+    ]
+}
