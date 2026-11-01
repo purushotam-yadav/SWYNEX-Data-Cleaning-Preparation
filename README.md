@@ -62,4 +62,22 @@ Python, Pandas, UCI ML Repository, MySQL, Excel, GitHub.
 Open `data/cleaned/bank_marketing_cleaned.csv` in Excel. Use filters to inspect `unknown` categories, sort numeric columns to review ranges, and use Remove Duplicates only on a copy. Keep the Python-generated cleaned CSV as the reproducible final output.
 
 ## Author
-Add your name, course, and internship details here before submission.
+## Author
+
+**Name:** Purushottam Yadav
+
+**Course:** Bachelor of Computer Applications (BCA)
+
+**Semester:** 5th Semester
+
+**Internship:** Data Analyst Intern
+
+**Company:** SWYNEX Technologies
+
+**Domain:** Data & AI
+
+**Duration:** 30 Days
+
+**GitHub:** https://github.com/purushotam-yadav
+
+**Project:** Data Cleaning & Preparation
